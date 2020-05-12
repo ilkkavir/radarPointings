@@ -1,0 +1,10 @@
+Package: radarPointings
+Version: 0.1-3
+Date: 2013-06-04
+Title: Radar pointing directions
+Author: Ilkka Virtanen <ilkka.i.virtanen@oulu.fi> 
+Maintainer: Ilkka Virtanen <ilkka.i.virtanen@oulu.fi>
+Description: Coordinate system conversions for multistatic radar systems
+License: FreeBSD
+Depends: 
+Copyright: University of Oulu, Finland
