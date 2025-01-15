@@ -32,7 +32,11 @@ radarSites <- function()
           # Millstone Hill
           MLH = c(  42.62 , 288.51 , 146 ),
           # Jicamarca
-          JRO = c( -11.95 , 283.13 , 520 )
+          JRO = c( -11.95 , 283.13 , 520 ),
+          ## E3D, lat and lon from https://eiscat.se, alt approximately from a topographic map
+          SKI = c(69 + 20/60 + 23.9/3600, 20+18/60+51.3/3600,50),
+          KAR = c(68+28/60+48.9/3600, 22+31/60+24.8/3600,360),
+          KAI = c(68+16/60+1.6/3600, 19+26/60+52.9/3600,425)
         )
       )
 
